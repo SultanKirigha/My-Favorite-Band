@@ -1,0 +1,108 @@
+body{
+    background: url("Images/pic8.jpeg") no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{
+    color: burlywood;
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+}
+.Section 2{
+    height:100%;
+    width:50%;
+    position: fixed;
+    z-index: 1;
+    top:0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.Image{
+    background-image: url('Images/wfzz82_f.jpeg');
+    background-attachment: fixed;
+    background-size: 50% 105%;
+    background-repeat: no-repeat;
+    background-attachment: center;
+    height: 100vh;
+    width: 50%;
+    float:left;
+}
+.About{
+     color: white;
+     border-style: solid white;
+     background-color: black;
+     opacity: 0.7;
+     float: right;
+     height: 100vh;
+     max-width: 50%;
+     max-height: 100%;
+     text-align: center;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+.Section_3{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    float: left;
+}
+.list{
+    max-width: 100%;
+    max-height: 100%;
+    color: rgb(255, 253, 251);
+    vertical-align: text-bottom;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+}
+p.one{
+    background-image: url('Images/Dan Reynolds 8x10_.jpg');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    float: middle;
+    background-position: center;
+    
+}
+p.two{
+    background-image: url('Images/pis.png');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    float: middle;
+    background-position: center;
+}
+p.three{
+    background-image: url('Images/ben-mckee-el-bajista-de-imagine-dragons-ben-mckee-toca-en-escena-1.jpg');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    float: middle;
+    background-position: center;
+}  
+p.four{
+    background-image: url('Images/30b0533f1e09547cac934392b870c332.jpg');
+    background-size: 300px;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 400px;
+    float: middle;
+    background-position: center;   
+}
+.All_songs{
+     float:left;
+     width:auto;
+     margin-right:14px;
+}
