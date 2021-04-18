@@ -1,14 +1,17 @@
+/* It contains the background-image*/
 body{
     background: url("Images/pic8.jpeg") no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
 }
+/* Contains the font color and afew other details */
 h1{
     color: burlywood;
     font-weight: bold;
     font-size: 100px;
     text-align: center;
 }
+/*Divides the HTML documents equaly in two parts*/
 .Section 2{
     height:100%;
     width:50%;
@@ -18,6 +21,7 @@ h1{
     overflow-x: hidden;
     padding-top: 20px;
 }
+/*This is the Image half of the Website*/
 .Image{
     background-image: url('Images/wfzz82_f.jpeg');
     background-attachment: fixed;
@@ -28,6 +32,7 @@ h1{
     width: 50%;
     float:left;
 }
+/*This is the About half with details on the Band*/
 .About{
      color: white;
      border-style: solid white;
@@ -39,14 +44,17 @@ h1{
      max-height: 100%;
      text-align: center;
 }
+/*Styling the h2*/
 h2{
     font-size: 50px;
     text-align: center;
 }
+/*Styling the paragraph tag in Section 2*/
 p{
     font-size: 25px;
     text-align: center;
 }
+/*Divides Section 2 from Section 3*/
 .Section_3{
     color: white;
     font-size: 35px;
@@ -55,6 +63,7 @@ p{
     width: 100%;
     float: left;
 }
+/*Information on all Band Members*/
 .list{
     max-width: 100%;
     max-height: 100%;
@@ -64,6 +73,7 @@ p{
     font-size: 25px;
     text-align: center;
 }
+/*Image styles of the First band Member*/
 p.one{
     background-image: url('Images/Dan Reynolds 8x10_.jpg');
     background-size: 300px;
@@ -74,6 +84,7 @@ p.one{
     background-position: center;
     
 }
+/*Image styles of the Second band Member*/
 p.two{
     background-image: url('Images/pis.png');
     background-size: 300px;
@@ -83,6 +94,7 @@ p.two{
     float: middle;
     background-position: center;
 }
+/*Image styles of the Third band Member*/
 p.three{
     background-image: url('Images/ben-mckee-el-bajista-de-imagine-dragons-ben-mckee-toca-en-escena-1.jpg');
     background-size: 300px;
@@ -91,7 +103,8 @@ p.three{
     width: 400px;
     float: middle;
     background-position: center;
-}  
+} 
+/*Image styles of the fourth band Member*/
 p.four{
     background-image: url('Images/30b0533f1e09547cac934392b870c332.jpg');
     background-size: 300px;
@@ -101,6 +114,7 @@ p.four{
     float: middle;
     background-position: center;   
 }
+/*My Favorite Tracks*/
 .All_songs{
      float:left;
      width:auto;
