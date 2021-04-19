@@ -14,8 +14,22 @@ See real examples:
 https://sultanmwangoyakirigha.github.io/My-Favorite-Band/
 
 ## Table of contents
-
 > * [Title / Imagine Dragons
 >   * [About / Synopsis]
 >   * [Band Members]
 >   * [Favorite Tracks]
+
+
+## Band Members
+> Dan Reynolds
+> Wayne Sermon
+> Ben McKee
+> Daniel Platzman
+
+
+## Favorite Tracks
+https://youtu.be/fKopy74weus
+https://youtu.be/k3zimSRKqNw
+https://youtu.be/wm3G84Nikks
+https://youtu.be/I-QfPUz1es8
+
