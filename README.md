@@ -21,10 +21,10 @@ https://sultanmwangoyakirigha.github.io/My-Favorite-Band/
 
 
 ## Band Members
-> Dan Reynolds
-> Wayne Sermon
-> Ben McKee
-> Daniel Platzman
+> Dan Reynolds (Details)
+> Wayne Sermon (Details)
+> Ben McKee (Details)
+> Daniel Platzman (Details)
 
 
 ## Favorite Tracks
