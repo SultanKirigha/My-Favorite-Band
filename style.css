@@ -3,6 +3,8 @@ body{
     background: url("Images/pic8.jpeg") no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
+    padding: 0;
+    margin: 0;
 }
 /* Contains the font color and afew other details */
 h1{
