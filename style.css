@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background: none repeat scroll 0 0;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+.inner_main_menu{
+    margin: 0 auto;
+    width: 1170px;
+}
+.inner_main_menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+.inner_main_menu ul li{
+    float: none;
+    display: inline-block;
+}
+.inner_main_menu ul li:nth-child(1){
+    float: left;
+}
+.inner_main_menu ul li:nth-child(2){
+    float: left;
+}
+.inner_main_menu ul li:nth-child(3){
+    float: left;
+}
+.inner_main_menu ul li:nth-child(4){
+    float: left;
+}
+.inner_main_menu ul li a{
+    color:#262626; 
+    font-size: 13px;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+}
+.inner_main_menu ul li a:hover{
+    color: orange;
+}
+/* Logo Style */
+
+#mail_menu{
+    width: 100%;
+    position: relative;
+}
+.logo_area{
+    width:150px;
+    height:150px;
+    position: absolute;
+    left: 44%;
+    top: -60;
+}
+.logo_image{
+    width: 200px;
+    height: 200px;
+    margin-top: -50%;
+}
